@@ -25,3 +25,4 @@ This repo contains a curated list of links about various topics.
 ### Other
 
 - https://learning-notes.mistermicheels.com
+- https://teachyourselfcs.com/
