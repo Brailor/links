@@ -18,6 +18,9 @@ This repo contains a curated list of links about various topics.
 
 - [intro to WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/#toc-first)
 
+### Go
+- https://gobyexample.com/ (this is a great reference for Go)
+
 ### Blogs that I like
 
 - https://denvaar.github.io/articles/index.html
