@@ -14,6 +14,9 @@ This repo contains a curated list of links about various topics.
 - Containers:
   - [OCI spec (Open Container Initiative)](https://github.com/opencontainers/runtime-spec/blob/main/spec.md)
 
+### General Programming
+- Functional Programming and Design:
+  - https://blog.ploeh.dk/
 ### Web tech
 
 - [intro to WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/#toc-first)
@@ -29,3 +32,4 @@ This repo contains a curated list of links about various topics.
 
 - https://learning-notes.mistermicheels.com
 - https://teachyourselfcs.com/
+- https://www.trackawesomelist.com/
