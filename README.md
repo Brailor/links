@@ -33,3 +33,4 @@ This repo contains a curated list of links about various topics.
 - https://learning-notes.mistermicheels.com
 - https://teachyourselfcs.com/
 - https://www.trackawesomelist.com/
+- https://course.jobsearch.dev/01_introductions/01_course_intro.html
