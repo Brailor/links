@@ -20,7 +20,8 @@ This repo contains a curated list of links about various topics.
 ### Web tech
 
 - [intro to WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/#toc-first)
-
+### DevOps
+- https://www.actionsbyexample.com/index.html (similiar to [Go by example](https://gobyexample.com) just for GitHub Actions)
 ### Go
 - https://gobyexample.com/ (this is a great reference for Go)
 
