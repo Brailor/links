@@ -14,6 +14,7 @@ This repo contains a curated list of links about various topics.
 - Containers:
   - [OCI spec (Open Container Initiative)](https://github.com/opencontainers/runtime-spec/blob/main/spec.md)
 
+- https://systemd-by-example.com/
 ### General Programming
 - Functional Programming and Design:
   - https://blog.ploeh.dk/
