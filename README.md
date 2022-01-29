@@ -25,6 +25,7 @@ This repo contains a curated list of links about various topics.
 - https://www.actionsbyexample.com/index.html (similiar to [Go by example](https://gobyexample.com) just for GitHub Actions)
 ### Go
 - https://gobyexample.com/ (this is a great reference for Go)
+- https://www.practical-go-lessons.com/
 
 ### Blogs that I like
 
