@@ -8,6 +8,7 @@ This repo contains a curated list of links about various topics.
 
   - https://iximiuz.com/en/
   - https://www.vidarholen.net/contents/blog/ (ShellCheck author's blog)
+  - https://unixsheikh.com/
 
 - Shell scripting:
   - https://google.github.io/styleguide/shellguide.html
