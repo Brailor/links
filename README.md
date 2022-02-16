@@ -31,6 +31,8 @@ This repo contains a curated list of links about various topics.
 ### Blogs that I like
 
 - https://denvaar.github.io/articles/index.html
+- https://rachelbythebay.com/w/
+- https://www.zhenghao.io/posts
 
 ### Other
 
