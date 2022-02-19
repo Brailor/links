@@ -14,7 +14,7 @@ This repo contains a curated list of links about various topics.
   - https://google.github.io/styleguide/shellguide.html
 - Containers:
   - [OCI spec (Open Container Initiative)](https://github.com/opencontainers/runtime-spec/blob/main/spec.md)
-
+- Network Booting:
 - https://systemd-by-example.com/
 ### General Programming
 - Functional Programming and Design:
