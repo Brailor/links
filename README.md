@@ -33,6 +33,7 @@ This repo contains a curated list of links about various topics.
 - https://denvaar.github.io/articles/index.html
 - https://rachelbythebay.com/w/
 - https://www.zhenghao.io/posts
+- https://notes.eatonphil.com/
 
 ### Other
 
